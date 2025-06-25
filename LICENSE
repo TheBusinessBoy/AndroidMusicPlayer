@@ -1,0 +1,84 @@
+MIT License
+
+Copyright (c) 2024 Android Music Player
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Licenças de Terceiros
+
+Este projeto utiliza as seguintes bibliotecas e componentes de terceiros:
+
+### Android Jetpack Compose
+- Licença: Apache License 2.0
+- Copyright: Google Inc.
+- URL: https://github.com/androidx/androidx
+
+### ExoPlayer
+- Licença: Apache License 2.0
+- Copyright: Google Inc.
+- URL: https://github.com/google/ExoPlayer
+
+### FFmpeg Mobile
+- Licença: LGPL v3.0
+- Copyright: Arthenica
+- URL: https://github.com/tanersener/mobile-ffmpeg
+
+### Kotlin
+- Licença: Apache License 2.0
+- Copyright: JetBrains
+- URL: https://github.com/JetBrains/kotlin
+
+### Material Design Icons
+- Licença: Apache License 2.0
+- Copyright: Google Inc.
+- URL: https://github.com/google/material-design-icons
+
+### OkHttp
+- Licença: Apache License 2.0
+- Copyright: Square Inc.
+- URL: https://github.com/square/okhttp
+
+### Room Database
+- Licença: Apache License 2.0
+- Copyright: Google Inc.
+- URL: https://developer.android.com/jetpack/androidx/releases/room
+
+### Coroutines
+- Licença: Apache License 2.0
+- Copyright: JetBrains
+- URL: https://github.com/Kotlin/kotlinx.coroutines
+
+## Aviso Legal
+
+Este software é fornecido "como está", sem garantias de qualquer tipo, expressas ou implícitas, incluindo, mas não se limitando a, garantias de comercialização, adequação a um propósito específico e não violação.
+
+O uso deste software para download de conteúdo protegido por direitos autorais pode violar as leis de direitos autorais em sua jurisdição. Os utilizadores são responsáveis por garantir que o uso do software esteja em conformidade com todas as leis aplicáveis.
+
+## Contribuições
+
+Ao contribuir para este projeto, você concorda que suas contribuições serão licenciadas sob a mesma licença MIT.
+
+## Contacto
+
+Para questões relacionadas à licença, entre em contacto através de:
+- Email: legal@musicplayer.com
+- GitHub: https://github.com/seu-usuario/android-music-player/issues
+
