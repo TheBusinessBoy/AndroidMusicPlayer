@@ -1,4 +1,4 @@
-name: android_build.yml
+name: Android CI
 on:
 push:
 branches: [ main ]
