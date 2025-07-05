@@ -24,7 +24,10 @@ jobs:
 
     - name: Build with Gradle
       run: ./gradlew assembleDebug
-
+      
+    - name: List APK contents
+      run: ls -laR app/build/outputs/apk/
+  
     - name: Upload APK
       uses: actions/upload-artifact@v4
       with:
