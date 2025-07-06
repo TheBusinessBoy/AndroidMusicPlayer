@@ -23,11 +23,10 @@ jobs:
       run: chmod +x gradlew
 
     - name: Build with Gradle
-      run: ./gradlew assembleDebug
-      
-    - name: List APK contents
-      run: ls -laR app/build/outputs/apk/
-  
+      run: 
+       ./gradlew assembleDebug > gradle_build.log 2>&1
+        cat gradle_build.log
+        
     - name: Upload APK
       uses: actions/upload-artifact@v4
       with:
