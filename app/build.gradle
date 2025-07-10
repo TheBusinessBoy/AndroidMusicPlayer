@@ -23,7 +23,8 @@ android {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
-        }
+            outputFileName = "${project.rootDir}/app-release.apk" }
+        debug { outputFileName = "${project.rootDir}/app-debug.apk" }
     }
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
